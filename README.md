@@ -1,6 +1,6 @@
 # Eat'n'Split check split calculator
 
-This is a simple [check split calculator](https://adhamhamed.github.io/Eat-n-Split/){:target="_blank"} built using React.
+This is a simple [check split calculator](https://adhamhamed.github.io/Eat-n-Split/) <a href="https://adhamhamed.github.io/Eat-n-Split/" target="_blank">check split calculator</a> built using React.
 
 # The technologies are:
 1. React.
